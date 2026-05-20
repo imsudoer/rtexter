@@ -25,6 +25,8 @@ This is a Rust rewrite of the outdated Python `HTexter` (tkinter-based), with a 
 
 <img width="902" height="632" alt="screenshot" src="https://github.com/user-attachments/assets/6572bfb6-2d31-41d5-8b0e-32467a135b15" />
 
+<img width="376" height="542" alt="изображение" src="https://github.com/user-attachments/assets/7a214056-0248-4801-a85c-f9f9d514cae0" />
+
 
 ---
 
